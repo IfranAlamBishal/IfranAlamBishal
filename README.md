@@ -16,7 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> 
   <img alt="shopify" src="https://github.com/user-attachments/assets/084f4c9b-77ec-4330-810f-6b4d182d70ed" width="40" height="40"/>
-
 </p>
 
 <br/>
