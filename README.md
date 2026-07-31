@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Ifran Alam Bishal</h1>
-<h3 align="center">Frontend Developer | Code Enthusiast | Gaming Aficionado </h3>
+<h3 align="center">Web Developer | Code Enthusiast | Gaming Aficionado </h3>
 <br/>
 
 
@@ -13,6 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"> 
   <img src="https://github.com/user-attachments/assets/62207200-b66c-4efb-bcca-320403935dbe" alt="express" width="60" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/ec5256f7-57de-4fb0-87ce-ad94229ea398" width="40" height="40" alt="next" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> 
   <img alt="shopify" src="https://github.com/user-attachments/assets/084f4c9b-77ec-4330-810f-6b4d182d70ed" width="40" height="40"/>
