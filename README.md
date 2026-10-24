@@ -10,7 +10,7 @@
       <br />
 
   <h2>My Development Toolkit</h2>
-  <!-- <p>Building custom Shopify stores and web experiences.</p> -->
+  <p>Custom Web Applications &amp; Shopify Stores</p>
 
   <br />
 
