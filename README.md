@@ -3,59 +3,82 @@
 
 <br />
 
-<table align="center">
+<table width="100%" align="center">
   <tr>
-<!-- Technologies -->
-  <td width="60%" align="center" valign="middle">
-      <h3>Technologies I Work With</h3>
-      <p>Tools behind my websites and Shopify stores.</p>
+  <!-- TECHNOLOGIES -->
+    <td width="60%" align="center" valign="middle">
+      <br />
+
+  <h2>My Development Toolkit</h2>
+  <!-- <p>Building custom Shopify stores and web experiences.</p> -->
 
   <br />
 
-<!-- Row 1 -->
   <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+             alt="HTML5" title="HTML5" width="48" height="48" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+             alt="CSS3" title="CSS3" width="48" height="48" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+             alt="JavaScript" title="JavaScript" width="48" height="48" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+             alt="React" title="React" width="48" height="48" />
         &nbsp;
-        <img src="https://github.com/user-attachments/assets/ec5256f7-57de-4fb0-87ce-ad94229ea398" alt="Next.js" title="Next.js" width="36" height="36" />
+        <img src="https://github.com/user-attachments/assets/ec5256f7-57de-4fb0-87ce-ad94229ea398"
+             alt="Next.js" title="Next.js" width="48" height="48" />
         &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" />
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+             alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
+      </p>
+
+   <br />
+
+  <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+             alt="Node.js" title="Node.js" width="48" height="48" />
+        &nbsp;
+        <img src="https://github.com/user-attachments/assets/62207200-b66c-4efb-bcca-320403935dbe"
+             alt="Express.js" title="Express.js" width="48" height="40" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+             alt="MongoDB" title="MongoDB" width="48" height="48" />
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+             alt="Firebase" title="Firebase" width="48" height="48" />
+        &nbsp;
+        <img src="https://github.com/user-attachments/assets/084f4c9b-77ec-4330-810f-6b4d182d70ed"
+             alt="Shopify" title="Shopify" width="48" height="48" />
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+             alt="Adobe Illustrator" title="Adobe Illustrator" width="48" height="48" />
       </p>
 
   <br />
 
-<!-- Row 2 -->
   <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="36" height="36" />
-        &nbsp;
-        <img src="https://github.com/user-attachments/assets/62207200-b66c-4efb-bcca-320403935dbe" alt="Express.js" title="Express.js" width="48" height="32" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
-        &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="36" height="36" />
-        &nbsp;
-        <img src="https://github.com/user-attachments/assets/084f4c9b-77ec-4330-810f-6b4d182d70ed" alt="Shopify" title="Shopify" width="36" height="36" />
-        &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="36" height="36" />
+        <strong>Shopify Development · Custom Web Applications</strong>
       </p>
+
+  <br />
     </td>
 
-  <!-- GitFut card -->
+<!-- GITFUT CARD -->
   <td width="40%" align="center" valign="middle">
-      <img
+      <br />
+
+  <img
         src="https://github.com/user-attachments/assets/deaab5af-59c3-43c2-a6ed-9e90ab878626"
-        alt="Md. Ifran Alam Bishal — GitFut Card"
-        width="250"
+        alt="Ifran Alam Bishal GitFut developer card"
+        width="300"
       />
-    </td>
+
+  <br /><br />
+  </td>
   </tr>
 </table>
-
 <br />
 
 <h2 align="center">📈 My GitHub Stats</h2>
