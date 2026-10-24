@@ -21,6 +21,10 @@
 
 <br/>
 
+<img width="330" height="500" alt="IfranAlamBishal-gitfut" src="https://github.com/user-attachments/assets/deaab5af-59c3-43c2-a6ed-9e90ab878626" />
+
+<br/>
+
   ## :chart_with_upwards_trend: My Stats
 
 <br />
